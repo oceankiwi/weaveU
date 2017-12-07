@@ -28,3 +28,13 @@ Start the development server with this command:
 ```
 npm start
 ```
+
+https://www.gitbook.com/book/kdchang/react101/details
+
+
+{
+  "presets": [
+    ["latest", { "modules": false }],
+    "react"
+  ]
+}
